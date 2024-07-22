@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\bin\Debug\HotelBillingSystemADO.exe.config
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\bin\Debug\HotelBillingSystemADO.exe
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\bin\Debug\HotelBillingSystemADO.pdb
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.Food_New_Entry.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.Form1.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.Properties.Resources.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.exe
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.pdb
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\HotelBillingSystemADO\HotelBillingSystemADO\obj\Debug\HotelBillingSystemADO.Sales_Billing.resources
